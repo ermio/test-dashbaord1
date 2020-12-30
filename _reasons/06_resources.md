@@ -10,6 +10,7 @@ intro: Essential resources of the ESD ecosystem.
 - [Medium](https://medium.com/basis-cash)
 - [Twitter](https://twitter.com/BasisCash)
 - [GitHub](https://github.com/Basis-Cash)
+- [Documentation](https://docs.basis.cash/)
 
 ### Network Resources
 
