@@ -11,6 +11,7 @@ intro: Essential resources of the ESD ecosystem.
 - [Twitter](https://twitter.com/BasisCash)
 - [GitHub](https://github.com/Basis-Cash)
 - [Documentation](https://docs.basis.cash/)
+- [Governance Voting](https://snapshot.page/#/basiscash.eth)
 
 ### Network Resources
 
@@ -20,8 +21,7 @@ intro: Essential resources of the ESD ecosystem.
 
 ### Community Resources
 
-
-- Basis Cash Statistics and APRs
+- [Basis Cash Statistics and APRs](https://bc.tools/)
 
 ### Press
 
