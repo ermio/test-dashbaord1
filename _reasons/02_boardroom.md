@@ -4,7 +4,7 @@ title: Earn BAC in the Boardroom
 intro: Lock your Basis Shares in the Boardroom to earn BAC during expansion.
 ---
 
-When the Basis Cash protocol is in expansion newly minted BAC tokens are awarded to those who stake their Basis Shares (BAS) tokens in the Boardroom.
+When the Basis Cash protocol is in expansion, you can earn newly minted **Basis Cash (BAC)** by staking your Basis Shares (BAS) tokens in the Boardroom.
 
 Here’s how it works:
 
@@ -16,6 +16,8 @@ Here’s how it works:
 
 Important things to know:
 
-- TBD
+- Rewards are received once per day, at the epoch time. You can monitor the countdown of the current epoch at the[ Basis Cash Tools](https://bs.tools) site.
+
+- Unlike some other algorithmic stablecoin projects, there are no complicated time lock-ups determining when you can claim your rewards, or remove your staked Basis Shares.
 
 Let’s now look at [how to earn Basis Shares in the Bank!](/bank/) →
