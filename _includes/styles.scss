@@ -365,12 +365,22 @@ section {
     transform: translate(-50%, -33%);
     width: 40px;
     height: 40px;
+    padding: 3px;
     line-height: 40px;
-    color: #fff;
+    color: #9190ff;
     font-weight: 800;
     border-radius: 50%;
     background: linear-gradient(#f5a0f1, #0b03b7);
     transition: all 0.1s ease-out;
+    div {
+      border-radius: 50%;
+      background: #151515;
+    }
+    span {
+      background: -webkit-linear-gradient(#de91eb, #472ec8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
   }
   &:visited &-index {
     font-size: 0;
