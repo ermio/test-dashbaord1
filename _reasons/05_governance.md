@@ -8,12 +8,12 @@ The Basis Cash project intends to operate as a “DAO”, or *decentralized auto
 
 Here’s how it works:
 
-1. Proposals—called Basis Cash Improvement Proposals, or "BIPs"—are created and discussed in dedicated channels in the Governance section of the [Basis Cash project Discord](https://discord.gg/UEZq3HF5Eu).
+1. Proposals—called Basis Cash Improvement Proposals, or “BIPs”—are created and discussed in dedicated channels in the Governance section of the [Basis Cash project Discord](https://discord.gg/UEZq3HF5Eu).
 2. Those proposals deemed worthy to proceed to implementation are put to vote at the [Basis Cash Governance Platform](https://snapshot.page/#/basiscash.eth). Only people with Basis Shares staked in the Boardroom are allowed to vote, and votes are weighted by the amount of shares held.
 
 Important to know:
 
-- Separate from the Treasury, used to fund Bond redemption, the Basis Cash protocol also funds the Community Development Fund, used to fund project operations. Proposals for the use of these funds are called Community DAO Improvement Proposals, or "CDIPs". CDIPs can be  proposed by any community member. After discussion a "Discord Vote" is taken, and if passed, the CDIP moves to formal voting (like BIPs).
+- Separate from the Treasury, used to fund Bond redemption, the Basis Cash protocol also funds the Community Development Fund, with 2% of new emission, which is used to pay for project operations and expenses. Proposals for the use of these funds are called Community DAO Improvement Proposals, or “CDIPs”. CDIPs can be  proposed by any community member. After discussion a “Discord Vote” is taken, and if passed, the CDIP moves to formal voting (like BIPs).
 
 At this point, you know all the basics of Basis Cash!
 

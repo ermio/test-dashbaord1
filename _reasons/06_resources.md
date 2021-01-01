@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 title: Basis Cash Resources
-intro: Essential resources of the ESD ecosystem.
+intro: Essential resources of the Basis Cash ecosystem.
 ---
 
 ### Official Resources
