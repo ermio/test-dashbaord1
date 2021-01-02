@@ -7,10 +7,8 @@ intro: Essential resources of the Basis Cash ecosystem.
 ### Official Resources
 
 - [Basis Cash Platform](https://basis.cash/)
-- [Medium](https://medium.com/basis-cash)
-- [Twitter](https://twitter.com/BasisCash)
-- [GitHub](https://github.com/Basis-Cash)
-- [Documentation](https://docs.basis.cash/)
+- [Medium](https://medium.com/basis-cash) & [Twitter](https://twitter.com/BasisCash)
+- [GitHub](https://github.com/Basis-Cash) & [Documentation](https://docs.basis.cash/)
 - [Governance Voting](https://snapshot.page/#/basiscash.eth)
 
 ### Network Resources
