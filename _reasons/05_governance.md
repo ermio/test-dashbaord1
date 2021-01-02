@@ -13,7 +13,7 @@ Here’s how it works:
 
 Important to know:
 
-- Separate from the Treasury, used to fund Bond redemption, the Basis Cash protocol also funds the Community Development Fund, with 2% of new emission, which is used to pay for project operations and expenses. Proposals for the use of these funds are called Community DAO Improvement Proposals, or “CDIPs”. CDIPs can be  proposed by any community member. After discussion a “Discord Vote” is taken, and if passed, the CDIP moves to formal voting (like BIPs).
+- Separate from the Treasury, used to fund Bond redemption, the Basis Cash protocol also funds the Community Development Fund, with 2% of each BAC supply expansion, which is used to pay for project operations and expenses. Proposals for the use of these funds are called Community DAO Improvement Proposals, or “CDIPs”. CDIPs can be  proposed by any community member. After discussion a “Discord Vote” is taken, and if passed, the CDIP moves to formal voting (like BIPs).
 
 At this point, you know all the basics of Basis Cash!
 

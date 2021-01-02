@@ -1,10 +1,10 @@
 ---
 permalink: /bonds/
 title: Earn BAC by buying Bonds
-intro: Purchase bonds at a premium when BAC is in contraction.
+intro: Purchase bonds at a discount when BAC is in contraction.
 ---
 
-When the Basis Cash protocol is in contraction, you can buy **Basis Bonds (BAB)** at a premium. This means for each 1 BAB worth of bonds, you’ll pay something less than 1 BAC, and later be able to redeem them for 1 BAC, when the protocol is again in expansion.
+When the Basis Cash protocol is in contraction, you can buy **Basis Bonds (BAB)** at a discount. This means for each 1 BAB worth of bonds, you’ll pay something less than 1 BAC, and later be able to redeem them for 1 BAC, when the protocol is again in expansion.
 
 To pay for Basis Bonds, you are removing Basis Cash from the total supply, which should have the effect of increasing its market price back towards a value of 1 DAI.
 

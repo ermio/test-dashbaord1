@@ -16,4 +16,4 @@ Important things to know:
 
 - Unlike some other algorithmic stablecoin projects, there are no complicated time lock-ups determining when you can claim your rewards, or remove your liquidity.
 
-Let’s now look at [earning BAC through Bonds!](/coupons/) →
+Let’s now look at [earning BAC through Bonds!](/bonds/) →
