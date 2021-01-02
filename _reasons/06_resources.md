@@ -19,7 +19,7 @@ intro: Essential resources of the Basis Cash ecosystem.
 
 ### Community Resources
 
-- [Basis Cash Statistics and APRs](https://bs.tools/)
+- [Basis Cash Statistics and APRs](https://bc.tools/)
 
 ### Press
 
