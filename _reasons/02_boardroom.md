@@ -16,7 +16,7 @@ Here’s how it works:
 
 Important things to know:
 
-- Rewards are received once per day, at the epoch time of 00:00 UTC. You can monitor the countdown of the current epoch at the[ Basis Cash Tools](https://bs.tools) site.
+- Rewards are received once per day, at the epoch time of 00:00 UTC. You can monitor the countdown of the current epoch at the[ Basis Cash Tools](https://bc.tools) site.
 
 - Unlike most other algorithmic stablecoin projects, there are no complicated time lock-ups determining when you can claim your rewards, or remove your staked Basis Shares.
 
