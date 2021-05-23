@@ -1,5 +1,6 @@
 ---
-permalink: /bank/
+number: 3
+slug: bank
 title: Earn BAS in the Bank
 intro: Provide liquidity on Uniswap to earn BAS.
 ---

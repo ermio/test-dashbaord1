@@ -1,5 +1,6 @@
 ---
-permalink: /bonds/
+number: 4
+slug: bonds
 title: Earn BAC by buying Bonds
 intro: Purchase bonds at a discount when BAC is in contraction.
 ---

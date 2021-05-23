@@ -1,10 +1,11 @@
 ---
-permalink: /governance/
+number: 5
+slug: governance
 title: Basis Cash Governance
 intro: Get involved, and help shape the future of Basis Cash!
 ---
 
-The Basis Cash project intends to operate as a “DAO”, or *decentralized autonomous organization*, allowing those who have staked BAS to vote on proposals that shape the evolution of the protocol.
+The Basis Cash project intends to operate as a “DAO”, or _decentralized autonomous organization_, allowing those who have staked BAS to vote on proposals that shape the evolution of the protocol.
 
 Here’s how it works:
 
@@ -13,7 +14,7 @@ Here’s how it works:
 
 Important to know:
 
-- Separate from the Treasury, used to fund Bond redemption, the Basis Cash protocol also funds the Community Development Fund, with 2% of each BAC supply expansion, which is used to pay for project operations and expenses. Proposals for the use of these funds are called Community DAO Improvement Proposals, or “CDIPs”. CDIPs can be  proposed by any community member. After discussion a “Discord Vote” is taken, and if passed, the CDIP moves to formal voting (like BIPs).
+- Separate from the Treasury, used to fund Bond redemption, the Basis Cash protocol also funds the Community Development Fund, with 2% of each BAC supply expansion, which is used to pay for project operations and expenses. Proposals for the use of these funds are called Community DAO Improvement Proposals, or “CDIPs”. CDIPs can be proposed by any community member. After discussion a “Discord Vote” is taken, and if passed, the CDIP moves to formal voting (like BIPs).
 
 At this point, you know all the basics of Basis Cash!
 

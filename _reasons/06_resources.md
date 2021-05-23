@@ -1,5 +1,6 @@
 ---
-permalink: /resources/
+number: 6
+slug: resources
 title: Basis Cash Resources
 intro: Essential resources of the Basis Cash ecosystem.
 ---
